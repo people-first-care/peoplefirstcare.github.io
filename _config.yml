@@ -1,0 +1,19 @@
+# Site settings
+title: People First Care
+email: info@peoplefirstcare.nl
+url: https://peoplefirstcare.nl
+description: "Omdat mensen op nummer 1 dienen te staan"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: People First Care
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+
+# Build settings
+markdown: kramdown
+permalink: pretty
